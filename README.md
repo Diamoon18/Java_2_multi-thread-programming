@@ -1,5 +1,10 @@
 # PRiR-Homework_Java_2
 ## Task 1 - Timepiece
+I made a little model view controller (MVC) application that just counts time with threads. \ 
+Also while the application is running, you can look at the kitten. \
+The main class (model) -> ```Czasomierz```, which is the run() method with time calculation. \
+Also I did an auxiliary method ```time()``` to print the time on the screen nicer.
+### Result
 ![image](https://user-images.githubusercontent.com/72127610/139556898-b6ad805a-d72a-4de6-b048-61b93950b4e9.png)
 ![image](https://user-images.githubusercontent.com/72127610/139556934-0065d097-07fe-4d48-a5fd-e8e4fcf9a87d.png)
 ## Task 2 - Car
