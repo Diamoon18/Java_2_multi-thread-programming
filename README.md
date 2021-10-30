@@ -122,7 +122,7 @@ for(Punkt pn: p) {
 The principle of operation(code) the same as in the previous program. \
 Dividing the image into four threads, i.e. into four parts. \
 Each thread in its area changes the RGB pixel color. \
-Also, I made an auxiliary class ```Pixel``` to make it easier to store information about changed pixels. \
+Also, I made an auxiliary class ```Pixel``` to make it easier to store information about changed pixels. 
 ```java
 negativeImage thread0 = new negativeImage(0);
 negativeImage thread1 = new negativeImage(1);
