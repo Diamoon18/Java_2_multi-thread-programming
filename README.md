@@ -211,5 +211,8 @@ while (k < CUTOFF && zr * zr + zi * zi < 4.0) {
 ### Result - fractal as figure eight
 ![image](https://user-images.githubusercontent.com/72127610/139557411-8db31e0b-3e14-4700-b522-739fa01fe3de.png)
 ## Task 6 - The problem of 5 philosophers
-
+I connected these 3 implementations in the ```main``` class. \
+I made a static ```menu()``` method, in which the user can choose one of the implementations of the problem of 5 philosophers. \
+Method ```sprawdzOpcje()``` checking the correctness of the entered selection. \
+Method ```setNumFiloz()``` gives the user the opportunity to enter the number of philosophers in the simulation.
 ![image](https://user-images.githubusercontent.com/72127610/139557434-9e0e6d18-84f0-4f75-9ce3-84b1c124be9d.png)
