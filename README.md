@@ -155,7 +155,7 @@ for(Pixel p : res_p) {
 ![image](https://user-images.githubusercontent.com/72127610/139557343-43000943-fe57-4bd3-b7fe-91450903730b.png)
 ![image](https://user-images.githubusercontent.com/72127610/139557348-51bda997-a300-493c-ab4f-3557b341343d.png)
 ## Task 5 - Julia set (fraktal) for more-> resources/Julia! - class skeleton extension
-What I added to this code:\
+What I added to this code:
 1) Color change.
 ```java
 // 1) red 3) blue
