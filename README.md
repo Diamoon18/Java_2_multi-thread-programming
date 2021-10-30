@@ -89,12 +89,12 @@ for(int i = 0; i <= sum_points; i++){
     }     
 }
 ```
-1) The user specifies the number of random points. \
-2) Run() method: \
+1) The user specifies the number of random points. 
+2) Run() method: 
 One thread (e.g. 1 part of a square) generates x and y coordinates for these points using the Random class (NextInt method). \
 Adds the points to the ArrayList and further checks by a circle equation to see, if that point is in the circle. \
-If so, it increments the variable ```result```. \
-3) Calling threads in the class ```SimModel``` \ 
+If so, it increments the variable ```result```. 
+3) Calling threads in the class ```SimModel``` 
 Correctness of the result using a formula : Area = (result(points in the circle)*area_of_rectangle)/number of random points
 ```java
 ...
